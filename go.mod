@@ -1,4 +1,4 @@
-module github.com/devopsfaith/krakend
+module github.com/NETCRACKER-P2P-Streaming/krakend/v1.3.1
 
 go 1.13
 
